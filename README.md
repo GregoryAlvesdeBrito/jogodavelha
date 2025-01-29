@@ -166,3 +166,12 @@ Dev/
 
 Projeto desenvolvido com Flask, SQLAlchemy e scikit-learn. 🚀
 
+
+
+Gregory Brito
+🎯 Desenvolvedor Fullstack | Designer Gráfico e UX/UI | Analista e Desenvolvedor de Sistemas
+Sou um Desenvolvedor Fullstack com sólida experiência em Python e Django, especializado na criação de aplicações web escaláveis, design de APIs RESTful e otimização de bancos de dados relacionais. Combinando habilidades em back-end e front-end, desenvolvo interfaces funcionais e atrativas com foco em usabilidade (UX/UI) e design responsivo.
+
+📍 Localização: Mooca - São Paulo
+📫 Contato: gregory.brito@hotmail.com
+
