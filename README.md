@@ -108,8 +108,8 @@ Dev/
 ## Rotas da API
 
 - Blibioteca de Requisitos:
-   - [Insonia](https://insomnia.rest/)
-      [Package.json]
+   - [Insomnia](https://insomnia.rest/) Download Insomnia Here
+   - [Package.json](https://github.com/GregoryAlvesdeBrito/jogodavelha/blob/main/Package.json) Download Package.json Here
 
 ### **Jogadores**
 
